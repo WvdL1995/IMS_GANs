@@ -1,5 +1,5 @@
 # IMS_GANs
-Experiments for GANs on IMS
+Main files for using Generative Adversarial Networks (GANs) with Imaging Mass Spectrometry (IMS) data.
 
 # How to use
 The data is not included in this git.
